@@ -1,0 +1,5 @@
+moveresize
+ fullgaps
+ restartsig
+ hide vacant tags
+
